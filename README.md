@@ -1,1 +1,1 @@
-# simple-action
+# simple-npm-lib
