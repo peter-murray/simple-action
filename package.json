@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peter-murray/simple-action.git"
+    "url": "git+https://github.com/peter-murray/simple-npm-lib.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peter-murray/simple-action/issues"
+    "url": "https://github.com/peter-murray/simple-npm-lib/issues"
   },
   "homepage": "https://github.com/peter-murray/simple-action#readme",
   "devDependencies": {
